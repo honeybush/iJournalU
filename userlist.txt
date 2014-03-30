@@ -1,0 +1,13 @@
+aamiranda96: tempPass
+	qweezysparrow
+	iyamira
+qweezysparrow: wheeeee
+	aamiranda96
+iyamira: teehee
+	monkiya
+	jellybanana
+	aamiranda96
+monkiya: tututut
+	iyamira
+jellybanana: tuturoooooo
+	iyamira

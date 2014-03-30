@@ -1,0 +1,51 @@
+#Aim up to level 2 for now. Proceed to higher levels if there is still enough time
+
+Level 1:
+ [/] create user
+ [/] input files in userlist
+ [/] create a text file for user info
+ [/] add profile picture
+ [/] take files from userlist
+ [/] take stuff from userinfo
+ [/] log-in
+ [/] view own profile
+ [/] log-out
+ [] edit profile
+ [/] create a status
+ [/] store status
+ [/] show status
+ [/] search a profile
+ [/] view other's profile
+ [] you can add friends
+ [] you can accept friends
+ [/] view list of friends
+ [/] create file for messages
+ [] send messages
+ [/] get messages
+ [] delete friends
+ [] delete status
+ [] delete messages
+ [] detect errors in all actions
+ [] CODE MUST RUN.
+#extra features:
+# - good looking gui []
+# - editable status []
+# - editable profile pic []
+
+Level 2:
+ [] delete own profile
+ [] get friend's status
+ [] sort friend's status and own status via date and time
+ [] view sorted status in newsfeed
+ [] delete status from newsfeed
+ [] hide a status of someone else in newsfeed
+ [] hide all status from a friend from newsfeed
+ [] create a "status" saying that the user profile was edited
+ [] sort with the "status"
+ [] other users can log-in at the same time
+ [] CODE MUST RUN.
+#extra features: 
+# - can undo hiding of status from a friend []
+# - auto refresh of newsfeed []
+# - editable status in newsfeed []
+# - good looking gui []
